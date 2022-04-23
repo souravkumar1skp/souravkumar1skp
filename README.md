@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sourav kumar
-- 👀 I’m interested in ... web development, android development, machine learning and cool new tech
+- 👀 I’m interested in ... web development, android development, machine learning, web scraping and cool new tech
 - 🌱 I’m currently learning ... machine learning
 - 💞️ I’m looking to collaborate on ... on my new upcoming project :- cross compiler
 - 📫 How to reach me ... 
