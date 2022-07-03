@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sourav kumar
-- 👀 I’m interested in ... web development, android development, machine learning, data science, web scraping and cool new tech
+- 👀 I’m interested in ... web development, machine learning, web scraping and cool new tech
 - 🌱 I’m currently learning ... machine learning
 - 📫 How to reach me ... 
 
